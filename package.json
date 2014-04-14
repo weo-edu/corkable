@@ -1,0 +1,34 @@
+{
+  "name": "corkable",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/corkable.git"
+  },
+  "keywords": [
+    "corkable",
+    "uncork",
+    "on",
+    "end",
+    "uncork",
+    "end",
+    "uncork",
+    "streams3",
+    "streams",
+    "node"
+  ],
+  "author": "ashaffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weo-edu/corkable/issues"
+  },
+  "homepage": "https://github.com/weo-edu/corkable",
+  "dependencies": {
+    "core-util-is": "~1.0.1"
+  }
+}
